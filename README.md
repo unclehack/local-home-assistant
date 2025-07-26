@@ -8,7 +8,7 @@ This avoids tracking and third-party dependencies for Home Assistant. The result
 
 ## Current functionality
 
-This is a new projet. It'll require some additional improvements. The current feature set includes:
+This is a new project. It'll require some additional improvements. The current feature set includes:
 - identical icons are soft-linked to make the built image smaller
 - the png images are quantized and shrunk to make the built image smaller
 - compressed and uncompressed js files which contain the brands.home-assistant.io URL are updated to replace the URL with a reference to the Home Assistant static assets folder from the frontend
